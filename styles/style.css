@@ -1,0 +1,209 @@
+header {
+    background-image: url(../Images/header_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: navajowhite;
+    border: 1px solid yellow;
+    border-radius: 10px;
+}
+
+#active{
+    background-color: green;
+}
+
+nav {
+    background-color: grey;
+    padding: 5px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li{
+    list-style-type: none;
+    color: white;
+    background-color: #B2B2B2;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    border: 2px;
+    border-color: red;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#content{
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid grey;
+}
+
+#gordenramsey{
+    width: 59%;
+    float: right;
+}
+
+aside {
+    border: .5px solid red;
+    border-radius: 10px;
+    width: 18.5%;
+    float: right;
+}
+
+aside ul li a {
+    color: blue;
+    text-decoration: none;
+}
+
+aside ul li {
+    list-style-type: none;
+}
+
+main {
+    float: left;
+    width: 80%; 
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: inherit;
+}
+
+.staff{
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 5px;
+    padding-bottom: ; 
+}
+
+.border {
+    border: .5px solid black;
+    float: left;
+}
+
+footer {
+    clear: both;
+    clear: both;
+    border: 1px solid orange;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+}
+
+#chefs{
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+
+footer nav ul li{
+    background-color: grey;
+}
+
+#sideStuff{
+    border: 5px solid green;
+    border-radius: 10px;
+    
+}
+
+#aboutUstxt{
+    float: left;
+    width: 40%;
+}
+
+
+#aboutusborder {
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+#GoLeft {
+    float: left;
+}
+
+.manager {
+    float: right;
+}
+
+.showimages {
+    float: right;
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+}
+
+#staffImages {
+    float: left;
+    margin 15px;
+}
+
+#video {
+    float: left;
+    margin: 20px;
+}
+
+.youtube {
+    float: right;
+}
+
+#ChocoCake {
+    width: 80%;
+}
+
+#SoundsBk {
+    background-image: url(../Images/carrots.jpg)
+}
+
+.Background_imageA {
+    background-image: url(../Images/bacon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border: 3px solid black;
+    margin: 2px;
+}
+
+.Background_imageB {
+    background-image: url(../Images/carrots.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border: 3px solid black;
+    margin: 2px;
+}
+
+.Background_imageC {
+    background-image: url(../Images/eggs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border: 3px solid black;
+    margin: 2px;
+}
+
+.sectionDisplay{
+    margin: 50px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+}
+
+
+.width {
+    width: 65%
+}
